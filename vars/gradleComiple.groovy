@@ -1,3 +1,5 @@
+#!/usr/bin/env groovy
+
 /**
 * Gradle compile step
 */
