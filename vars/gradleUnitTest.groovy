@@ -1,5 +1,5 @@
 /**
-* Gradle unit-test step
+* Gradle unit-test step.
 */
 
 def call() {

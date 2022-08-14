@@ -1,5 +1,5 @@
 /**
-* Gradle build step
+* Gradle build step.
 */
 def call() {
 	sh "./gradlew build"
